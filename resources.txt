@@ -1,0 +1,9 @@
+folders: backend 
+movies (frontend)
+
+installation:
+npm i cors
+npm i express
+npm install nodemon
+npm i react-router-dom
+npm i mongodb
