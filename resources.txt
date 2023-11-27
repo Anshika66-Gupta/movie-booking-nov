@@ -11,7 +11,7 @@ npm i mongodb
 
 database username: devnov,
 password: Abc123
-
+npm i jsonwebtoken
 npm i bcrypt
 
 
